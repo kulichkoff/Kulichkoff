@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DxAcker
-- 👀 I’m interested in Web Development, building clear software architecture
-- 🌱 I’m currently learning Vue, Java, Android, iOS
+- 👀 I’m interested in Web and Game Development
+- 🌱 I’m currently learning building software architecture
 - 📫 How to reach me: my email `danchick03@gmail.com`, my telegram `@dxacker`, my instagram `danny.kitsune`
 
 <!---
