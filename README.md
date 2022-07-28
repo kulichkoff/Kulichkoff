@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Daniel Kulichkov
-- 👀 I’m interested in the Web and some Game Developments
-- 🌱 I’m currently learning software architecture
+- 👀 I’m interested in the Web and the system programming.
+- 🌱 I’m currently learning `Rust` and Web frameworks such as `Angular`, `React`, `Vue`.
 - 📫 How to reach me: my email `danchick03@gmail.com`, my telegram `@dxacker`, my instagram `danny.kitsune`
