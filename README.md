@@ -20,7 +20,7 @@ I like **C++** and **C#**, so I learn Unity Game Development too. I can say it i
 I'm looking towards **design**. I think that any developer should know at least a little about design. This is not to mention web development.
 Although the Angular specification rather refers to the creation of control tools (administrative panels), and not ordinary web pages, as it seems to me.
 
-Also, I wanna learn **iOS development** (send me macbook plz). I am very inspired by iOS application. They are structured, which I find attractive.
+Also, I learn **iOS development**. I am very inspired by iOS application. They are structured, which I find attractive.
 
 ## :notebook: Little about my projects
 
