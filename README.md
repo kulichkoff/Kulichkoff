@@ -9,7 +9,7 @@
 
 ## :technologist: About me
 
-My name is Daniel Kulichkov. I am a **Software Developer**. I got a position as a **lead** developer in [Background Digital](https://background.digital).
+My name is Daniel Kulichkov. I am a **Software Developer** in [First Line Outsourcingl](https://www.flo.team/ru/).
 The main direction of my activity now is the Web Development. In general, I specialize in [Angular](https://angular.io), but I can also effectively
 use other frameworks or libraries. Such as [React](https://reactjs.org) and [Vue](https://vuejs.org).
 
