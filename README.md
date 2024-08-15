@@ -9,18 +9,10 @@
 
 ## :technologist: About me
 
-My name is Daniel Kulichkov. I am a **Software Developer** in [First Line Outsourcingl](https://www.flo.team/ru/).
-The main direction of my activity now is the Web Development. In general, I specialize in [Angular](https://angular.io), but I can also effectively
-use other frameworks or libraries. Such as [React](https://reactjs.org) and [Vue](https://vuejs.org).
+My name is Daniel Kulichkov. I am a **Software Developer** in [First Line Outsourcing](https://www.flo.team/ru/).
+The main direction of my activity now is the Web Development with cloud technologies such as AWS Serverless.
 
 I like **C++** and **C#**, so I learn Unity Game Development too. I can say it is very interesting (as hard) and exciting to build your own worlds.
-
-#### :question: What do I want to learn in the future?
-
-I'm looking towards **design**. I think that any developer should know at least a little about design. This is not to mention web development.
-Although the Angular specification rather refers to the creation of control tools (administrative panels), and not ordinary web pages, as it seems to me.
-
-Also, I learn **iOS development**. I am very inspired by iOS application. They are structured, which I find attractive.
 
 ## :notebook: Little about my projects
 
@@ -30,5 +22,5 @@ Also, I learn **iOS development**. I am very inspired by iOS application. They a
 
 Very little ERP system for my father's business. It is a very specific project. The main task of it is generating bills for counter agents.
 
-Kulichkoff's ERP is a good project for me to show my hard skills using Angular. In this project I experimented with docker-compose contexts
-and with **Nx**.
+Kulichkoff's ERP is a good project for me to show my hard skills using Angular and Nest JS frameworkds. 
+In this project I experimented with docker-compose contexts and with **Nx**.
