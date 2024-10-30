@@ -32,6 +32,6 @@ This tool is useful for verifying data integrity and creating secure checksums.
 
 <div align="center">
   <img src="https://img.shields.io/github/release/kulichkoff/hasha" />
-  <img src="https://img.shields.io/github/last-commit/kulichkoff/chgpf" />
-  <img src="https://img.shields.io/github/license/kulichkoff/chgpf" />
+  <img src="https://img.shields.io/github/last-commit/kulichkoff/hasha" />
+  <img src="https://img.shields.io/github/license/kulichkoff/hasha" />
 </div>
