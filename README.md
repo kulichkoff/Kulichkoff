@@ -9,18 +9,29 @@
 
 ## :technologist: About me
 
-My name is Daniel Kulichkov. I am a **Software Developer** in [First Line Outsourcing](https://www.flo.team/ru/).
+My name is Daniel Kulichkov and I am a **Software Developer** in [First Line Outsourcing](https://www.flo.team/ru/).
 The main direction of my activity now is the Web Development with cloud technologies such as AWS Serverless.
 
-I like **C++** and **C#**, so I learn Unity Game Development too. I can say it is very interesting (as hard) and exciting to build your own worlds.
+I like **C++** and **TS**.
 
 ## :notebook: Little about my projects
 
-### [Kulichkoff's ERP](https://github.com/kulichkoff/kulichkoff-erp)
+### [Chgpf](https://github.com/kulichkoff/chgpf)
 
-<img src="https://img.shields.io/github/last-commit/kulichkoff/kulichkoff-erp" />
+A simple command-line tool to change Git profiles with ease
 
-Very little ERP system for my father's business. It is a very specific project. The main task of it is generating bills for counter agents.
+<div align="center">
+  <img src="https://img.shields.io/github/release/kulichkoff/chgpf" />
+  <img src="https://img.shields.io/github/last-commit/kulichkoff/chgpf" />
+</div>
 
-Kulichkoff's ERP is a good project for me to show my hard skills using Angular and Nest JS frameworkds. 
-In this project I experimented with docker-compose contexts and with **Nx**.
+### [Hasha](https://github.com/kulichkoff/hasha)
+
+Hasha is a simple command-line tool for generating hashes from input data.
+This tool is useful for verifying data integrity and creating secure checksums.
+
+<div align="center">
+  <img src="https://img.shields.io/github/release/kulichkoff/hasha" />
+  <img src="https://img.shields.io/github/last-commit/kulichkoff/chgpf" />
+  <img src="https://img.shields.io/github/license/kulichkoff/chgpf" />
+</div>
