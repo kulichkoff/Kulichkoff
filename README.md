@@ -18,7 +18,7 @@ I like **C++** and **TS**.
 
 ### [Chgpf](https://github.com/kulichkoff/chgpf)
 
-A simple command-line tool to change Git profiles with ease
+A simple command-line tool to change Git profiles with ease.
 
 <div align="center">
   <img src="https://img.shields.io/github/release/kulichkoff/chgpf" />
