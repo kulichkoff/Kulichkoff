@@ -9,8 +9,8 @@
 
 ## :technologist: About me
 
-My name is Daniel Kulichkov and I am a **Software Developer** in [First Line Outsourcing](https://www.flo.team/ru/).
-The main direction of my activity now is the Web Development with cloud technologies such as AWS Serverless.
+My name is Daniel Kulichkov, and I am a **Software Developer** at [First Line Outsourcing](https://www.flo.team/ru/).
+Currently, my main focus is web development with cloud technologies such as AWS Serverless.
 
 I like **C++** and **TS**.
 
