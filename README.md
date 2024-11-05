@@ -10,9 +10,14 @@
 ## :technologist: About me
 
 My name is Daniel Kulichkov, and I am a **Software Developer** at [First Line Outsourcing](https://www.flo.team/ru/).
-Currently, my main focus is web development with cloud technologies such as AWS Serverless.
+Currently, my main focus is web development with cloud technologies such as AWS Serverless, using tools like Angular for frontend development.
 
-I like **C++** and **TS**.
+I’m passionate about learning and rapidly acquiring new skills. Currently, I'm diving into Go and Rust to broaden my expertise.
+I’ve worked on a variety of projects, including Hasha, a CLI tool designed to calculate file hashes faster than macOS' built-in solution.
+I'm also actively developing Bakman, a backup CLI tool. You can explore my projects and more details below.
+
+While I’m not currently involved in open-source contributions, I look forward to engaging with the community and contributing 
+to meaningful projects in the future.
 
 ## :notebook: Little about my projects
 
