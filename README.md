@@ -4,7 +4,6 @@
 
 <div id="badges" align="center">
     <a href="https://t.me/dxack" target="_blank"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="TG" /></a>
-    <a href="https://github.com/kulichkoff" target="_blank"><img src="https://img.shields.io/badge/Github-grey?logo=github&logoColor=white&style=for-the-badge" alt="GH" /></a>
 </div>
 
 ## :technologist: About me
